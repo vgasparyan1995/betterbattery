@@ -3,6 +3,9 @@
 This plasmoid (KDE Plasma widget) displays your current battery charge with a transparent progress bar.
 
 ![screenshot 1](data/screenshot1.png)
+
+The stripe at the bottom:
+
 ![screenshot 2](data/screenshot2.png)
 
 ## Installation and Usage
