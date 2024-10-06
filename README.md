@@ -10,7 +10,7 @@ This plasmoid (KDE Plasma widget) displays your current battery charge with a tr
 KDE Plasma
 ```
 cd ~/.local/share/plasma/plasmoids
-git clone <REPO>
+git clone https://github.com/vgasparyan1995/betterbattery.git
 ```
 
 And just like that a new widget is available in the catalog. _To access the catalog right click on the desktop and "Enter Edit Mode"._
