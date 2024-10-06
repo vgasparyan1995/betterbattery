@@ -1,0 +1,26 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "vgasparyan1995@gmail.com",
+                "Name": "Vanand Gasparyan"
+            }
+        ],
+        "Category": "System Information",
+        "Description": "betterbattery |Nicer transparent battery visualizer",
+        "EnabledByDefault": true,
+        "FormFactors": [
+            "desktop"
+        ],
+        "Id": "betterbattery",
+        "License": "GPL-2.0+"
+    },
+    "Keywords": "Power Management;Battery;System;Energy;",
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-DBusActivationService": "org.kde.Solid.PowerManagement",
+    "X-Plasma-NotificationAreaCategory": "Hardware",
+    "X-Plasma-Provides": [
+        "org.kde.plasma.powermanagement"
+    ]
+}
