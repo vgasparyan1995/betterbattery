@@ -40,3 +40,11 @@ For example, I changed the variables such to achieve smaller heights:
 minimumItemWidth: Kirigami.Units.gridUnit / 2
 minimumItemHeight: minimumItemWidth
 ```
+
+## Known issues
+
+Connecting an external display sometimes breaks the battery bar showing 0%. This may be easily fixed by restarting Plasma.
+
+```
+killall plasmashell; kstart5 plasmashell
+```
